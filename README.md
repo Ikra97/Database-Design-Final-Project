@@ -127,4 +127,4 @@ Conclusion
 
 The integrated Hospital Management System successfully consolidated hospital data, enhanced management efficiency, and provided valuable insights through data visualization. Future steps could include integrating real-time data updates and expanding the system to include more hospitals.
 
-![image](https://github.com/Ikra97/Database-Design-Final-Project/assets/113316391/14118440-bc67-4c7b-8b8c-91ba032401f4)
+
