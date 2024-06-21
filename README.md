@@ -1,4 +1,4 @@
-DMDD Final Project
+Hospital Management System
 
 
 Project Overview
